@@ -1,0 +1,13 @@
+# Packet Capture and Kafka Producer
+pyshark==0.6
+kafka-python==2.0.2
+
+# Spark (use spark-submit with packages instead)
+# pyspark==3.5.0
+
+# Snowflake connector (if using Snowflake)
+# snowflake-connector-python==3.6.0
+# snowflake-spark-connector (via spark packages)
+
+# Additional utilities
+python-dotenv==1.0.0
